@@ -1,0 +1,227 @@
+* {
+    background-color: black;
+}
+.firstdiv {
+    display: flex;
+    justify-content: center;
+    color: white;
+    gap: 90px;
+}
+a {
+    text-decoration: none;
+}
+.webname {
+    font-size: 1rem;
+    margin-left: -260px;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+.navbar{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+ }
+ .divsecond {
+    display: grid;
+    grid-template-columns:  1fr 1fr;
+
+ }
+ .textsec{
+    
+    font-style: normal;
+    margin-top: 20px;
+    
+ }
+ .firstheading {
+   font-family: "Playfair Display", serif;
+   font-optical-sizing: auto;
+   font-weight: <weight>;
+   font-style: normal;
+ }
+ .firstheading {
+   color: goldenrod;
+   font-size: 5rem;
+   font-family: "Playfair Display", serif;
+   font-optical-sizing: auto;
+   font-weight: <weight>;
+   font-style: normal;
+   
+ }
+ .firstpara {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: white;
+    margin-top: -70px;
+  }
+
+  .divthird {
+    display: grid;
+    grid-template-columns:  1fr 1fr;
+
+ }
+
+ .secpara {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  color: white;
+  margin-top: -70px;
+}
+.secheading {
+  color: goldenrod;
+  font-size: 5rem;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.imgsec {
+  margin-top: 10px;
+  height: 500px;
+}
+.thirdheading {
+  text-align: center;
+  margin-top: 80px;
+  color: goldenrod;
+  font-size: 4rem;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.forthdiv {
+  display: flex;
+  gap: 70px;
+}
+.imgthird {
+
+  height: 300px;
+}
+.imgforth {
+  height: 300px;
+}
+.imgfifth{
+  height: 300px;
+}
+.imgsix {
+  height: 300px;
+}
+.divfifth {
+  margin-top: 49px;
+  display: grid;
+  grid-template-columns:  1fr 1fr;
+
+}
+.fifthheading {
+  color: goldenrod;
+  font-size: 5rem;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.fifthpara {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  color: white;
+  margin-top: -60px;
+}
+.imgseven {
+  margin-top: 60px;
+  margin-left: 140px;
+
+  height: 400px;
+}
+.divsix{
+  display: grid;
+  grid-template-columns:  1fr 1fr;
+  margin-bottom: 90px;
+
+}
+.sixhheading {
+  color: goldenrod;
+  font-size: 5rem;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.sixpara {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  color: white;
+  margin-top: -40px;
+}
+.imgeight {
+  height: 500px;
+}
+.footer-content {
+  
+    color: white;
+    display: flex;
+    gap: 190px;
+}
+.namewebsite {
+    color: goldenrod;
+  font-size: 1rem;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+    
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+.footer-right{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: white;
+}
+.footer-left{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: white;
+}
+.footer-bottom{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: white;
+}
+
+.randomheading {
+    color: goldenrod;
+    font-size: 5rem;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    
+  }
+  .randompara {
+     font-family: "Playfair Display", serif;
+     font-optical-sizing: auto;
+     font-style: normal;
+     color: white;
+     margin-top: -70px;
+   }
+ 
+   .divrandom {
+     display: grid;
+     grid-template-columns:  1fr 1fr;
+ 
+  }
+  .imgrandom {
+    height: 350px;
+    margin-top: 60px;
+  }
